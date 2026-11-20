@@ -1,6 +1,6 @@
 # DOCUARCH: Document Archiving System
 
-Final Project for [course code and name]
+Final Project for ITPC 103
 
 A web-based system built with ReactJS, Node.js, and MySQL that helps schools and offices archive, organize, and retrieve Letters, Clearance Forms, and Reports. Each document type has its own document numbering series, so the same number under different types is treated as a separate record.
 
